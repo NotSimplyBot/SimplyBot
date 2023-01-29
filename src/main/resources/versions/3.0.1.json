@@ -1,0 +1,33 @@
+{
+  "codename": "Лисье обновление",
+  "number": "3.0.1",
+  "description": "Фиксы :>",
+  "change": [
+    {
+      "title": "1. help",
+      "description": ["Исправлены неправильные команды"]
+    },
+    {
+      "title": "2. rw:player",
+      "description": ["Исправлена вычисление времени"]
+    },
+    {
+      "title": "3. слэш-команды",
+      "description": ["Исправлена ошибка в описании команд"]
+    },
+    {
+      "title": "5. JDA",
+      "description": ["Была изменена ветка обновлений с alpha на beta"]
+    },
+    {
+      "title": "5. cape",
+      "description": ["Была дописана логика работы"]
+    }
+  ],
+  "color": "0xf4a261",
+  "icon": {
+    "type": "file",
+    "image": ".png",
+    "file": "assets/icons/fox.png"
+  }
+}

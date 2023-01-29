@@ -1,0 +1,14 @@
+{
+  "localhost": {
+    "address": "127.0.0.1"
+  },
+  "kel-gigabyte": {
+    "address": "192.168.10.210"
+  },
+  "kel-raspberry": {
+    "address": "192.168.10.209"
+  },
+  "kel-test-address": {
+    "address": "play.hypixel.net"
+  }
+}

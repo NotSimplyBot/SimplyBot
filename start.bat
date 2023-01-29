@@ -1,0 +1,1 @@
+java -jar build/libs/SimplyBot-3.0.2-all.jar
